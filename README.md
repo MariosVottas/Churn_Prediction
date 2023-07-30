@@ -1,6 +1,13 @@
 # Churn_Prediction
 
 This project is a personal training task to further undestand classification problems and methods. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager.
+
+##Repo files
+This repo contains:
+
+- The notebook used to develop this project
+- The dataset in csv format
+- The requirements.txt for reproducibility
 ## Project
 The Chief Retail Officer of the bank noticed a steady increase in the number of inactive users over the years which made her realize that the use of a data-driven solution is necessary to overcome the limitations of the current rule-based approach for monitoring user activity. Considering the nature of the data, you proposed to build a classification model that could accurately predict which customers are likely to turn inactive in the next 3 months.
 
