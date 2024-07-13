@@ -1,8 +1,9 @@
 # Churn_Prediction
 
-This project is a personal training task to further understand classification problems and methods. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager.
+This project is part of an interview process as a entry level Data Scientist. The hypothesis is, as if I am a Data Scientist for a bank and have a task presented to me by my manager.
 
-##Repo files
+## Repo files
+
 This repo contains:
 
 - The notebook used to develop this project
